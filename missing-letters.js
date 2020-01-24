@@ -9,7 +9,7 @@ function fearNotLetter(str) {
     let actualLetterCode = str.charCodeAt(i);
     let nextLetterCode = str.charCodeAt(i + 1);
 
-    if ((actualLetterCode + 1) != nextLetterCode) {
+    if (actualLetterCode + 1 != nextLetterCode) {
       return String.fromCharCode(actualLetterCode + 1);
     }
   }
