@@ -2,7 +2,7 @@
 Introduction to the Intermediate Algorithm Scripting Challenges (freeCodeCamp)
 </h1>
 <h2>
-What is this repository 🤔?
+What is this repository :thinking:?
 </h2>
 
 According to [freeCodeCamp](https://www.freecodecamp.org/), the following challenges are part of FCC's Intermediate Algorithm Scripting Challenges and they should prepare you to complete the final challenges for the JavaScript Algorithms And Data Structures Certification.
